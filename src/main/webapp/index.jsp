@@ -13,8 +13,8 @@ pageEncoding="UTF-8"%>
 <form name="form1" method="POST" action="index.jsp">
    <input type="text" name="name">
    <input type="text" name="psd">
-   <input type="submit" value="提交">
-   <input type="reset" value="重置">
+   <input type="submit" value="submit">
+   <input type="reset" value="re-enter">
 
 </form>
 <p></p>
